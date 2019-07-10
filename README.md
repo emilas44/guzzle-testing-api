@@ -9,4 +9,5 @@ and then you can run it
 `cd guzzle-testing-api`
 
 via terminal `php index.php`
+
 via virtual php server `php -S localhost:8000`
