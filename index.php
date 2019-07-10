@@ -13,7 +13,7 @@ use GuzzleHttp\Exception\GuzzleException;
         'verify' => false, // this line is only for testing server
         'headers' => [
             'Authorization' => 'Bearer '. $apiToken,
-            'Key' => 'value' // you can send any paramater here 
+            'Key' => 'value' // you can send any Key value pair/s here 
         ],
     ];
 
