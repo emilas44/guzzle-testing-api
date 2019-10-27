@@ -10,4 +10,6 @@ and then you can run it
 
 via terminal `php index.php`
 
+or
+
 via virtual php server `php -S localhost:8000` and then open it in web browser
