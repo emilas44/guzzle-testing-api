@@ -5,8 +5,8 @@ require 'vendor/autoload.php';
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 
-    $apiToken = '';
-    $url = '';
+    $apiToken = 'YOUR_TOKEN';
+    $url = 'URL_WHERE_REQUEST_IS_TO_BE_SEND';
     $client = new Client();
 
     $requestParameters = [
